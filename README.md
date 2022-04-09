@@ -1,7 +1,7 @@
 # PyTorch 한국어 튜토리얼
 
 ## 소개
-
+## abcdefu
 PyTorch에서 제공하는 튜토리얼의 한국어 번역을 위한 저장소입니다.\
 번역의 결과물은 [https://tutorials.pytorch.kr](https://tutorials.pytorch.kr)에서 확인하실 수 있습니다. (번역을 진행하며 **불규칙적으로** 업데이트합니다.)\
 현재 버전의 번역 / 변경 관련 이슈는 [#445 이슈](https://github.com/PyTorchKorea/tutorials-kr/issues/445)를 참고해주세요.
